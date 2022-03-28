@@ -5,8 +5,8 @@
 ### To use this Application
 
 - [Go to live link](https://boiling-savannah-16450.herokuapp.com/)
-
-[Click to access App](https://boiling-savannah-16450.herokuapp.com/)
+- Enter new note and click save
+- Click delete to remove old notes
 
 ### User Story
 
