@@ -2,11 +2,13 @@
 
 #### This is a web application where you can write and save notes. It uses an Express.js backend and will save and retrieve note data from a JSON file.
 
+***:rotating_light:NEW FEATURE ALERT - NOW YOU CAN DELETE YOUR PREVIOUSLY SAVED NOTES***
+
 ### To use this Application
 
 - [Go to live link](https://boiling-savannah-16450.herokuapp.com/)
-- Enter new note and click save
-- Click delete to remove old notes
+- Enter new note and click save :floppy_disk:
+- Click delete to remove old notes :wastebasket:
 
 ### User Story
 
