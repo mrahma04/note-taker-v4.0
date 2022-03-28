@@ -2,7 +2,7 @@
 
 #### This is a web application where you can write and save notes. It uses an Express.js backend and will save and retrieve note data from a JSON file.
 
-***:rotating_light:NEW FEATURE ALERT - NOW YOU CAN DELETE YOUR PREVIOUSLY SAVED NOTES***
+***:rotating_light: NEW FEATURE ALERT - NOW YOU CAN DELETE YOUR PREVIOUSLY SAVED NOTES :rotating_light:***
 
 ### To use this Application
 
