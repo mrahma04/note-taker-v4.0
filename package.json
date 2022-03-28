@@ -1,0 +1,25 @@
+{
+  "name": "note-taker-v4.0",
+  "version": "1.0.0",
+  "description": "#### This is a web application where you can write and save notes. It uses an Express.js backend and will save and retrieve note data from a JSON file.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrahma04/note-taker-v4.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrahma04/note-taker-v4.0/issues"
+  },
+  "homepage": "https://github.com/mrahma04/note-taker-v4.0#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
