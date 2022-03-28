@@ -4,10 +4,7 @@
 
 ### To use this Application
 
-- Clone repo on a machine running Node.js
-- Navigate to local repo directory
-- Install Node modules using `npm i`
-- Type :pencil2:`npm start` to start app
+- [Go to live link](https://boiling-savannah-16450.herokuapp.com/)
 
 [Click to access App](https://boiling-savannah-16450.herokuapp.com/)
 
